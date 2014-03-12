@@ -1,0 +1,17 @@
+h1#nome {
+text-align:center;
+
+}
+div#titulo {
+
+}
+
+td.item {
+text-align:right;
+background-color: #f0f0f0;
+width:150px;
+}
+
+td.resposta {
+}
+
