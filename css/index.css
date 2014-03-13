@@ -5,11 +5,39 @@ text-align:center;
 div#titulo {
 
 }
+.input-group {
 
-td.item {
+}
+
+
+.input-group-addon {
+width:115px;
 text-align:right;
-background-color: #f0f0f0;
-width:150px;
+border-radius: 0px;
+
+}
+a:hover {
+text-decoration:none;
+
+
+}
+a>div>div.form-control:hover {
+background	:#eee;
+}
+@media (max-width: 490px) { 
+div.texto-pequeno>div.form-control {
+height: 50px;
+}
+
+
+
+}
+
+
+.form-control {
+min-width:10px;
+border-radius: 0px;
+
 }
 
 td.resposta {
