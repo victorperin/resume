@@ -1,5 +1,27 @@
+div#background {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background: radial-gradient(circle, #ffffff, #dfefff) repeat scroll 0% 0% transparent;
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position:center;
+	z-index: -3;
+}
+
+.panel {
+box-shadow: 0px 0px 5px #aaa;
+}
+
+body {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	}
+
+
 h1#nome {
-text-align:center;
+	text-align:center;
 
 }
 div#titulo {
@@ -11,33 +33,29 @@ div#titulo {
 
 
 .input-group-addon {
-width:115px;
-text-align:right;
-border-radius: 0px;
-
+	width:115px;
+	text-align:right;
+	border-radius: 0px;
 }
+
 a:hover {
-text-decoration:none;
-
-
+	text-decoration:none;
 }
+
 a>div>div.form-control:hover {
-background	:#eee;
-}
-@media (max-width: 490px) { 
-div.texto-pequeno>div.form-control {
-height: 50px;
+	background:#eee;
 }
 
-
-
+@media (max-width: 490px) {
+	div.texto-pequeno>div.form-control {
+		height: 50px;
+	}
 }
 
 
 .form-control {
-min-width:10px;
-border-radius: 0px;
-
+	min-width:10px;
+	border-radius: 0px;
 }
 
 td.resposta {
