@@ -98,7 +98,7 @@
 								</p>
 							</div>
 							<div style="margin-top:10px;">
-								<div class="input-group formacao top col-md-2 col-sm-3 col-xs-6 " style="float: left;">
+								<div class="input-group formacao col-md-2 col-sm-3 col-xs-6 top " style="float: left;">
 									<span class="input-group-addon">Inicio</span>
 									<div class="form-control pull-right" >2007</div>
 								</div>
