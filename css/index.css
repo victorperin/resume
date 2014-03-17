@@ -28,8 +28,34 @@ h1#nome {
 	padding: 6px 3px;
 }
 
-.formacao .top > .input-group-addon  {
+
+@media (min-width: 768px) {
+.formacao.superior > .input-group-addon  {
 	border-bottom-left-radius: 0px;
+	
+}
+.formacao.superior > .form-control  {
+	border-bottom-right-radius: 0px;
+}
+.formacao.inferior > .input-group-addon  {
+	border-top-left-radius: 0px;
+	border-top:0px;
+}
+.formacao.inferior > .form-control  {
+	border-top-right-radius: 0px;
+	border-top:0px;
+}
+}
+
+@media (max-width: 768px) {
+.formacao.superior > .form-control  {
+	border-bottom-right-radius: 0px;
+	border-top-right-radius: 0px;
+}
+.formacao.inferior > .input-group-addon  {
+	border-bottom-left-radius: 0px;
+	border-top-lefy-radius: 0px;
+}
 }
 
 .formacao > .input-group-addon  {
@@ -37,8 +63,6 @@ h1#nome {
 	width: 70px;
 	text-align:right;
 }
-
-
 
 
 .informacoes_pessoais_item  > .input-group-addon {
@@ -69,4 +93,5 @@ a>div>div.form-control:hover {
 	min-width:10px;
 	border-radius: 0px;
 }
+
 
