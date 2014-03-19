@@ -26,6 +26,7 @@ h1#nome {
 }
 .formacao > .form-control  {
 	padding: 6px 3px;
+	text-align: center;
 }
 
 
@@ -54,14 +55,15 @@ h1#nome {
 }
 .formacao.inferior > .input-group-addon  {
 	border-bottom-left-radius: 0px;
-	border-top-lefy-radius: 0px;
-}
+	border-top-left-radius: 0px;
+	border-left:0px;
+	}
 }
 
 .formacao > .input-group-addon  {
 	padding: 6px 3px;
 	width: 70px;
-	text-align:right;
+	text-align:center;
 }
 
 
