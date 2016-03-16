@@ -2,7 +2,7 @@
   "name": "victorperin-resume",
   "version": "1.0.0",
   "description": "Victor's resume",
-  "main": "resume.json",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
