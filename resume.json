@@ -2,17 +2,17 @@
   "basics": {
     "name": "Victor Perin",
     "label": "Backend JavaScript Developer",
-    "picture": "https://avatars1.githubusercontent.com/u/5847145?v=3",
+    "picture": "http://www.gravatar.com/avatar/595de9f1fc0767b4fa75da7aa6c8633e?s=500",
     "email": "me@victorperin.ninja",
     "phone": "+55 (19) 9 7403 - 3163",
     "website": "http://victorperin.ninja",
     "summary": "I am a Computer Scientist working as Backend Developer. I love JavaScript, Linux, Open Source, Bash and creating twitter bots.",
     "location": {
-      "address": "R. comendador irineu checchia, 183",
-      "postalCode": "13043-060",
+      "address": "",
+      "postalCode": "",
       "city": "Campinas",
-      "countryCode": "BR",
-      "region": "São Paulo"
+      "countryCode": "Brazil",
+      "region": "SP"
     },
     "profiles": [{
       "network": "GitHub",
