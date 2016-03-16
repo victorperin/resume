@@ -47,17 +47,7 @@
       "I also learned the basics of software architeture and how to make a system more scaleable."
     ]
   }],
-  "volunteer": [{
-    "organization": "CoderDojo",
-    "position": "Teacher",
-    "website": "http://coderdojo.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Global movement of free coding clubs for young people.",
-    "highlights": [
-      "Awarded 'Teacher of the Month'"
-    ]
-  }],
+  "volunteer": [],
   "education": [{
     "institution": "Universidade Paulista Unip",
     "area": "Computer Science",
