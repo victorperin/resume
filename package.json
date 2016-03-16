@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/victorperin/resume/issues"
   },
-  "homepage": "https://github.com/victorperin/resume#readme"
+  "homepage": "https://github.com/victorperin/resume#readme",
+  "dependencies": {
+    "jsonresume-theme-eloquent": "^2.3.0"
+  }
 }
