@@ -1,0 +1,25 @@
+{
+  "name": "victorperin-resume",
+  "version": "1.0.0",
+  "description": "Victor's resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorperin/resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Victor Perin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorperin/resume/issues"
+  },
+  "homepage": "https://github.com/victorperin/resume#readme",
+  "dependencies": {
+    "jsonresume-theme-eloquent": "^2.3.0"
+  }
+}

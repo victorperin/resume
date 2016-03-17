@@ -1,0 +1,72 @@
+{
+  "basics": {
+    "name": "Victor Perin",
+    "label": "Backend JavaScript Developer",
+    "picture": "http://www.gravatar.com/avatar/595de9f1fc0767b4fa75da7aa6c8633e?s=500",
+    "email": "me@victorperin.ninja",
+    "phone": "+55 (19) 9 7403 - 3163",
+    "website": "http://victorperin.ninja",
+    "summary": "I am a Computer Scientist working as Backend Developer. I love JavaScript, Linux, Open Source, Bash and creating twitter bots.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Campinas",
+      "countryCode": "Brazil",
+      "region": "SP"
+    },
+    "profiles": [{
+      "network": "GitHub",
+      "username": "victorperin",
+      "url": "http://github.com/victorperin"
+    }, {
+      "network": "Twitter",
+      "username": "victor_perin",
+      "url": "http//twitter.com/victor_perin"
+    }]
+  },
+  "work": [{
+    "company": "PrinciWeb",
+    "position": "Backend Developer",
+    "website": "http://princiweb.com.br",
+    "startDate": "2015-08-05",
+    "endDate": "",
+    "summary": "At PrinciWeb I have developed some Web Systems, Apps and Websites with tons of different tecnologies. (mostly part with NodeJS and C#)",
+    "highlights": [
+      "Imuneasy - A web system for Immunization Clinics management. Build with NodeJS, CoffeeScript, Express, MsSql.",
+      "Stylist - Android app to share photos of fashion looks with friends. Builded with C#, WebApi, Entity Framework, Ionic."
+    ]
+  }, {
+    "company": "LG Metrologia",
+    "position": "Full Stack Developer",
+    "website": "http://sistema.lgmetrologia.com.br",
+    "startDate": "2013-12-16",
+    "endDate": "2015-08-04",
+    "summary": "I was put in a project that an anterior company has left without finishing. I finished (approximately) 50% of system by myself.",
+    "highlights": [
+      "In this project i figured out a product workflow product.",
+      "I also learned the basics of software architeture and how to make a system more scaleable."
+    ]
+  }],
+  "volunteer": [],
+  "education": [{
+    "institution": "Universidade Paulista Unip",
+    "area": "Computer Science",
+    "studyType": "Bachelor",
+    "startDate": "2014-01-01",
+    "endDate": "",
+    "gpa": "",
+    "courses": []
+  }],
+  "awards": [],
+  "publications": [],
+  "skills": [],
+  "languages": [{
+    "language": "Portuguese",
+    "fluency": "Native speaker."
+  }, {
+    "language": "English",
+    "fluency": "As duolingo says: 4.86 of 5.0 in their tests."
+  }],
+  "interests": [],
+  "references": []
+}
