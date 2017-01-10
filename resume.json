@@ -58,6 +58,13 @@
   "volunteer": [],
   "education": [
     {
+      "institution": "Colégio Técnico de Limeira (Cotil - Unicamp)",
+      "area": "Mechanics",
+      "studyType": "Technician",
+      "startDate": "2007-01-01",
+      "endDate": "2010-12-31"
+    },
+    {
       "institution": "Universidade Paulista Unip",
       "area": "Computer Science",
       "studyType": "Bachelor",
