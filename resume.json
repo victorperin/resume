@@ -113,7 +113,7 @@
   "skills": [
     {
       "name": "Back-end",
-      "level": "8/10",
+      "level": "7/10",
       "keywords": [
         "NodeJS",
         "C#",
@@ -126,7 +126,7 @@
     },
     {
       "name": "DevOps",
-      "level": "6/10",
+      "level": "5/10",
       "keywords": [
         "Linux",
         "Continuous Integration",
@@ -136,7 +136,7 @@
     },
     {
       "name": "Front-end",
-      "level": "5/10",
+      "level": "4/10",
       "keywords": [
         "JavaScript",
         "PostCSS",
