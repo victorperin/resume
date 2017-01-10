@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/victorperin/resume#readme",
   "dependencies": {
-    "jsonresume-theme-eloquent": "^2.3.0"
+    "jsonresume-theme-eloquent": "^3.0.1"
   }
 }
