@@ -55,7 +55,28 @@
       ]
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "Vota Campinas",
+      "website": "http://votacampinas.org.br/",
+      "startDate": "2016-07-01",
+      "endDate": "2016-10-30",
+      "summary": "Minha Campinas HackDay",
+      "highlights": [
+        "We build a system to match ideas with Councilmen and demand actions."
+      ]
+    },
+    {
+      "organization": "Node School - Campinas",
+      "website": "https://nodeschool.io/campinas/",
+      "position": "Mentor",
+      "startDate": "2015-07-31",
+      "summary": "Open source workshops that teach web software skills.",
+      "highlights": [
+        "Meetups to help people learn NodeJS from excercises and talks."
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "Colégio Técnico de Limeira (Cotil - Unicamp)",
