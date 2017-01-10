@@ -76,7 +76,42 @@
     }
   ],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Back-end",
+      "level": "8/10",
+      "keywords": [
+        "NodeJS",
+        "C#",
+        "PHP",
+        "ASP.NET",
+        "Bash",
+        "SQL",
+        "NoSQL"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "6/10",
+      "keywords": [
+        "Linux",
+        "Continuous Integration",
+        "Git",
+        "Bash"
+      ]
+    },
+    {
+      "name": "Front-end",
+      "level": "5/10",
+      "keywords": [
+        "JavaScript",
+        "PostCSS",
+        "Web Components",
+        "React (Basic)",
+        "Angular (Basic)"
+      ]
+    }
+  ],
   "languages": [{
     "language": "Portuguese",
     "fluency": "Native speaker."
