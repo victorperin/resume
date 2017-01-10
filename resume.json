@@ -84,6 +84,34 @@
     "language": "English",
     "fluency": "As duolingo says: 4.86 of 5.0 in their tests."
   }],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Computer Science",
+      "keywords":[
+        "Functional Programing",
+        "TDD",
+        "Cryptography",
+        "Clean Code",
+        "Automata"
+      ]
+    },
+    {
+      "name": "Open Source",
+      "keywords": [
+        "Linux",
+        "Android",
+        "Software Communities",
+        "Agile"
+      ]
+    },
+    {
+      "name": "Cryptography",
+      "keywords": [
+        "Bitcoin",
+        "Cypherpunks",
+        "Net Neutrality"
+      ]
+    }
+  ],
   "references": []
 }
