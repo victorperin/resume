@@ -30,8 +30,10 @@
     "website": "http://princiweb.com.br",
     "startDate": "2015-08-05",
     "endDate": "",
-    "summary": "At PrinciWeb I have developed some Web Systems, Apps and Websites with tons of different tecnologies. (mostly part with NodeJS and C#)",
+    "summary": "At PrinciWeb I build Web Systems, Apps and Websites with tons of different tecnologies. (mostly, with NodeJS and C#)",
     "highlights": [
+      "Robo Tope - Our partly open source robot to automate jobs at the company",
+      "NFe - Um Gerador de Nota Fiscal Eletronica. Build with PHP and MySQL (100%, all backend).",
       "Imuneasy - A web system for Immunization Clinics management. Build with NodeJS, CoffeeScript, Express, MsSql.",
       "Stylist - Android app to share photos of fashion looks with friends. Builded with C#, WebApi, Entity Framework, Ionic."
     ]
