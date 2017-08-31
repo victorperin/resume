@@ -37,7 +37,7 @@
       "highlights": [
         "Integration - we rewrite the service separating it in an API and workers, using Google Pub-Sub (an RabbitMQ like service)",
         "Networks - an API rebuild of one of their products, implementing 100% coverage of unit tests and optimizing pain points",
-        "Search - an service with focus on search all thing in our system. I worked mostly at the front using React and Redux",
+        "Search - an service with focus on search all thing in our system. I worked mostly at the front using React and Redux"
       ]
     },
     {
