@@ -28,11 +28,24 @@
   },
   "work": [
     {
+      "company": "InGaia",
+      "position": "Fullstack Developer",
+      "website": "https://ingaia.com.br",
+      "startDate": "2015-04-15",
+      "endDate": "",
+      "summary": "Working with NodeJS and React (with redux), I built high scalable products in an microservices architecture.",
+      "highlights": [
+        "Integration - we rewrite the service separating it in an API and workers, using Google Pub-Sub (an RabbitMQ like service)",
+        "Networks - an API rebuild of one of their products, implementing 100% coverage of unit tests and optimizing pain points",
+        "Search - an service with focus on search all thing in our system. I worked mostly at the front using React and Redux",
+      ]
+    },
+    {
       "company": "PrinciWeb",
       "position": "Backend Developer",
       "website": "http://princiweb.com.br",
       "startDate": "2015-08-05",
-      "endDate": "",
+      "endDate": "2017-04-15",
       "summary": "At PrinciWeb I build Web Systems, Apps and Websites with tons of different tecnologies. (mostly, with NodeJS and C#)",
       "highlights": [
         "Robo Tope - Our partly open source robot to automate jobs at the company",
