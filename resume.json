@@ -138,7 +138,7 @@
   "skills": [
     {
       "name": "Back-end",
-      "level": "7/10",
+      "level": "9/10",
       "keywords": [
         "NodeJS",
         "C#",
@@ -146,28 +146,33 @@
         "ASP.NET",
         "Bash",
         "SQL",
-        "NoSQL"
+        "NoSQL",
+        "RabbitMQ",
+        "Elixir"
       ]
     },
     {
       "name": "DevOps",
-      "level": "5/10",
+      "level": "7/10",
       "keywords": [
         "Linux",
         "Continuous Integration",
         "Git",
-        "Bash"
+        "Bash",
+        "Docker",
+        "Microservices"
       ]
     },
     {
       "name": "Front-end",
-      "level": "4/10",
+      "level": "6/10",
       "keywords": [
         "JavaScript",
         "PostCSS",
         "Web Components",
-        "React (Basic)",
-        "Angular (Basic)"
+        "React",
+        "Redux",
+        "Elm"
       ]
     }
   ],
