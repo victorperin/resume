@@ -2,14 +2,12 @@
   "basics": {
     "name": "Victor Perin",
     "label": "NodeJS Developer",
-    "picture": "http://www.gravatar.com/avatar/595de9f1fc0767b4fa75da7aa6c8633e?s=500",
+    "picture": "http://github.com/victorperin.png",
     "email": "me@victorperin.ninja",
     "phone": "+55 (19) 9 7403 - 3163",
     "website": "https://victorperin.ninja",
-    "summary": "Developer and NodeSchool Campinas's organizer.\nI love JavaScript, Linux, Open Source, Bash, Bitcoin and Docker.",
+    "summary": "Developer and NodeSchool Campinas organizer.\n\nBefore you continue, I strongly recommend you to read my github profile. This LinkedIn was created as just first contact.\n\nI love to participate in Software Communities, JavaScript, Clean Code, Linux, Open Source, Docker, Functional Programming...\n\nYou also may visit me on github and Code Wars.",
     "location": {
-      "address": "",
-      "postalCode": "",
       "city": "Campinas",
       "countryCode": "Brazil",
       "region": "SP"
@@ -19,14 +17,47 @@
         "network": "GitHub",
         "username": "victorperin",
         "url": "http://github.com/victorperin"
-      }, {
-        "network": "Twitter",
-        "username": "victor_perin",
-        "url": "http//twitter.com/victor_perin"
+      },
+      {
+        "network": "code",
+        "username": "victorperin",
+        "url": "https://www.codewars.com/users/victorperin"
       }
     ]
   },
   "work": [
+    {
+      "company": "Bud",
+      "website": "http://getbud.co/",
+      "position": "Pessoa desenvolvedora",
+      "startDate": "2021-07",
+      "endDate": "2023-05",
+      "summary": "Trabalhei e ajudei a construir a base da arquitetura e estrutural do produto. Mantive tanto o funcionamento do código, quanto da infraestrutura.\n\nNo processo me aprofundei ainda mais sobre tecnologias como: NestJS NextJS, Kubernetes, Terraform, GraphQL, RabbitMQ, e produtos da AWS."
+    },
+    {
+      "company": "Gupy",
+      "website": "https://www.gupy.io",
+      "position": "Pessoa desenvolvedora",
+      "startDate": "2020-11",
+      "endDate": "2021-07",
+      "summary": "Na Gupy consegui aplicar muito do que aprendi nas empresas anteriores. Principalmente testes de integração e de unidade, além de ter desenvolvido ainda mais meu conhecimento em OO."
+    },
+    {
+      "company": "Lambda3",
+      "website": "https://www.lambda3.com.br/",
+      "position": "Pessoa desenvolvedora",
+      "startDate": "2019-10",
+      "endDate": "2020-05",
+      "summary": "Me aprofundei muito em qualidade de software dentro da Lambda3, um local onde consegui aplicar de forma concreta coisas como: Testes de Unidade, Integração, E2E, Carga, Mutação, dentre outros; Também me aprofundei em estururas de FP e OO; além de consegui aprender um pouco sobre eng reversa de binários.\n\nOutra coisa muito importante pra mim foi poder ver em prática uma empresa verdadeiramente horizontal e com uma das melhores culturas internas que conheci."
+    },
+    {
+      "company": "Yurah (atualmente AprendiZAP, fundação1bi)",
+      "website": "https://www.fundacao1bi.com.br/",
+      "position": "Fullstack Developer",
+      "startDate": "2018-07",
+      "endDate": "2019-02",
+      "summary": "Helped founding a startup, there we developed and thought about all architectural specs from scratch. Using microservices with kubernetes, we manage to deliver an stable version.\n\nThe architecture was built thinking about speed and scalability while maintaining best practices like automated testing, clean code techniques, clean architecture, and so on.\n\nWe managed to work in partnership with Movile group to build Fundação 1 Bi, who bought and keep part of our product working.\n\n\nThere we got experience scaling the product while maintaining a small product cost, this resulted in aprox. 6 months of extra life without investment while not impacting user experience at all./nAlso learned some good and hard lessons about entrepreneurship, so, now I can understand and became more emphatic about problems outside technical teams and how to communicate to outside it."
+    },
     {
       "company": "InGaia",
       "position": "Fullstack Developer",
@@ -127,21 +158,21 @@
       "date": "2017-11-01",
       "awarder": "DigitalOcean Inc.",
       "summary": "Website: https://hacktoberfest.digitalocean.com/"
-    },
-    {
-      "title": "Speaker at DevFest Campinas (Blockchain - Uma introdução)",
-      "date": "2017-11-04",
-      "awarder": "GDG Campinas",
-      "summary": "Website: https://gdg-campinas.github.io/devfest\nThe Award: https://twitter.com/Victor_Perin/status/926955812362350593"
     }
   ],
   "publications": [],
   "skills": [
     {
       "name": "Back-end",
-      "level": "9/10",
+      "level": "10/10",
       "keywords": [
         "NodeJS",
+        "Clean Code",
+        "Clean Architecture",
+        "Automated Testing",
+        "TypeScript",
+        "JavaScript",
+        "GraphQL",
         "C#",
         "PHP",
         "ASP.NET",
@@ -149,51 +180,47 @@
         "SQL",
         "NoSQL",
         "RabbitMQ",
-        "Elixir"
+        "Elixir",
+        "Git"
       ]
     },
     {
       "name": "DevOps",
-      "level": "7/10",
+      "level": "9/10",
       "keywords": [
+        "Kubernetes",
+        "Terraform",
+        "Docker",
         "Linux",
         "Continuous Integration",
-        "Git",
         "Bash",
-        "Docker",
         "Microservices"
       ]
     },
     {
       "name": "Front-end",
-      "level": "6/10",
+      "level": "8/10",
       "keywords": [
+        "TypeScript",
+        "React",
+        "React Native",
+        "Style Components",
+        "GraphQL",
         "JavaScript",
         "PostCSS",
         "Web Components",
-        "React",
         "Redux",
         "Elm"
-      ]
-    },
-    {
-      "name": "Blockchain",
-      "level": "7/10",
-      "keywords": [
-        "Bitcoin (maximalist, almost)",
-        "Lightning Network adept",
-        "Mining Experience",
-        "Full Node"
       ]
     }
   ],
   "languages": [
     {
       "language": "Portuguese",
-      "fluency": "Native speaker."
+      "fluency": "Native speaker"
     }, {
       "language": "English",
-      "fluency": "As duolingo says: 4.86 of 5.0 in their tests."
+      "fluency": "Fluent speaker"
     }
   ],
   "interests": [
@@ -214,14 +241,6 @@
         "Android",
         "Software Communities",
         "Agile"
-      ]
-    },
-    {
-      "name": "Cryptography",
-      "keywords": [
-        "Bitcoin",
-        "Cypherpunks",
-        "Net Neutrality"
       ]
     }
   ],
